@@ -1,0 +1,6 @@
+Hexagonal Tiles:
+
+-	Spacing:
+	-	Flat->Flat: 1 unit
+	-	Right(x): 1.732
+	-	Up(z): 1
